@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Blizzardfur-Maxxx's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Blizzardfur-Maxxx)](https://github.com/anuraghazra/github-readme-stats) ![me lol]([http://url/to/img.png]((https://raw.githubusercontent.com/Blizzardfur-Maxxx/Blizzardfur-Maxxx/main/fe4mbliz-transp.png))
+[![Blizzardfur-Maxxx's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Blizzardfur-Maxxx)](https://github.com/anuraghazra/github-readme-stats) ![alt text](https://github.com/Blizzardfur-Maxxx/Blizzardfur-Maxxx/blob/main/fe4mbliz-transp.png)
 
 <!--
 **Blizzardfur-Maxxx/Blizzardfur-Maxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
