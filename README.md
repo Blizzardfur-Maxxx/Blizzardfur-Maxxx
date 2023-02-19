@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Blizzardfur-Maxxx's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Blizzardfur-Maxxx)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Blizzardfur-Maxxx/Blizzardfur-Maxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
