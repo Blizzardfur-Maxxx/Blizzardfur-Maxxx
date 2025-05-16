@@ -1,6 +1,5 @@
 ### Hi there Welcome to my page UwU 👋
-[![Blizzardfur-Maxxx's GitHub stats]
-
+[![Blizzardfur-Maxxx's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Blizzardfur-Maxxx)](https://github.com/anuraghazra/github-readme-stats) ![me lol]([http://url/to/img.png](https://avatars.githubusercontent.com/u/111100393?v=4))
 <!--
 **Blizzardfur-Maxxx/Blizzardfur-Maxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
